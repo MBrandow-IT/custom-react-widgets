@@ -1,16 +1,16 @@
 const widgetRegistry = [
   {
-    componentName: 'Counter',
-    elementName: 'counter'
+    componentName: "Counter",
+    elementName: "counter",
   },
   {
-    componentName: 'Team',
-    elementName: 'team'
+    componentName: "HouseholdLogin",
+    elementName: "householdlogin",
   },
   {
-    componentName: 'StaffTeams',
-    elementName: 'staff-teams'
-  }
+    componentName: "Test",
+    elementName: "test",
+  },
 ];
 
 export default widgetRegistry;

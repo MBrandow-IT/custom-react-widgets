@@ -1,10 +1,13 @@
-import PrayerWall from './components/PrayerWall';
-import './styles/output.css'
+import Counter from "./components/Counter";
+import HouseholdLogin from "./components/HouseholdLogin";
+import HouseholdManagement from "./components/HouseholdManagement";
+import Test from "./components/Test";
+import "./styles/output.css";
 
 function App() {
   return (
     <div className="App">
-      <PrayerWall />
+      <HouseholdManagement />
     </div>
   );
 }
